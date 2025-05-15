@@ -16,7 +16,7 @@ Contect Me
 
 - **Gmail:** [Harmivaishnav2003@gmail.com](mailto:Harmivaishnav2003@gmail.com)
 - **Phone:** [+91 9624158197](tel:+9624158197)
-- **GitHub:** [krunalvaishnav1](https://github.com/harmivaishnav)
+- **GitHub:** [Harmivaishnav](https://github.com/harmivaishnav)
 - **LinkedIn:** [harmivaishnav](https://www.linkedin.com/in/harmivaishnav/)
 
 
