@@ -16,16 +16,13 @@ Contect Me
 
 - **Gmail:** [Harmivaishnav2003@gmail.com](mailto:Harmivaishnav2003@gmail.com)
 - **Phone:** [+91 9624158197](tel:+9624158197)
-- **Portfolio:** https://krunalvaishnav.vercel.app/
-- **GitHub:** [krunalvaishnav1](https://github.com/krunalvaishnav)
+- **GitHub:** [krunalvaishnav1](https://github.com/harmivaishnav)
 - **LinkedIn:** [harmivaishnav](https://www.linkedin.com/in/harmivaishnav/)
-- **LeetCode:** [krunalvaishnav1](https://leetcode.com/u/krunalvaishnav/)
-- **GeeksforGeeks:** [krunalvais8yvr](https://www.geeksforgeeks.org/user/krunalvais8yvr/)
 
 
 
 
-- ![Visitor Count](https://komarev.com/ghpvc/?username=krunalvaishnav1&color=brightgreen)
+- ![Visitor Count](https://komarev.com/ghpvc/?username=harmivaishnav1&color=brightgreen)
 
 
 ---
@@ -34,11 +31,7 @@ Contect Me
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="AngularJs" alt="AngularJs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python"  alt="python" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c"  alt="c" width="40" height="40"/>&nbsp;
 </div>
