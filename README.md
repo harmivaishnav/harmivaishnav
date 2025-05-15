@@ -7,9 +7,7 @@
 
 💻 Armed with creativity and a commitment to clean, maintainable code, I thrive on transforming innovative ideas into functional, user-centric solutions.
 
-🌟 Whether it's crafting elegant user interfaces with Angular.js, styling with precision using CSS and Bootstrep, or optimizing performance with Node.js, I'm dedicated to pushing the boundaries of web development and creating impactful projects.
-
-- 🔭 I’m currently working on Mern Stack
+🌟 Whether it's crafting elegant user interfaces with python, styling with precision using CSS and Bootstrep, or optimizing performance with HTML, I'm dedicated to pushing the boundaries of web development and creating impactful projects.
 
 📫 Let's connect and collaborate on exciting ventures to shape the future of the web together!
 Contect Me
